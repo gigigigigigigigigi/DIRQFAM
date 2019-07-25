@@ -4,14 +4,7 @@ FC2 = gfortran -O3 -mcmodel=large -funroll-loops
 
 OBJ =                        \
 ./source/dirhbz.f            \
-./source/main_fam.f          \
-./source/base_simplex.f      \
-./source/construct_uv.f      \
-./source/check_gs_dens.f     \
-./source/check_unitarity.f   \
-./source/init_fam.f          \
-./source/init_basis.f        \
-./source/init_multipole.f    \
+./source/mait_multipole.f    \
 ./source/init_spurious.f     \
 ./source/init_coulomb.f      \
 ./source/init_pairing.f      \
