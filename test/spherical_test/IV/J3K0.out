@@ -1,0 +1,21 @@
+S(f,omega) = -1/pi * Im[Tr[hermconj(f)*drho(omega)]]  [fm^6/MeV]
+Fully self-consistent response
+ 84Zr, 10 shells, DD-PC1    
+Electromagnetism included in calculation
+Pairing included in calculation
+Isovector excitation
+J = 3
+K = 0
+gamma_smear =   1.000 [MeV]
+NGH = 48, NGL = 48
+ 
+ omega[MeV/hbar]       Sp(f,omega)+Sn(f,omega)          Sn(f,omega)          Sp(f,omega)
+ 
+        5.00000                 164.4819910498       187.6477379253       -23.1657468755
+       10.00000                 407.9241397118       236.8724793633       171.0516603484
+       15.00000                2250.1261116071      1249.6188368274      1000.5072747798
+       20.00000                 767.6917628790       396.2789851200       371.4127777590
+       25.00000                 412.7628744071       114.5365078158       298.2263665913
+       30.00000                 607.6895585881       341.0061201798       266.6834384083
+       35.00000                1546.2244759490       877.7356092918       668.4888666572
+       40.00000                1394.6354223270       679.6910389028       714.9443834243
